@@ -1,1 +1,3 @@
-https://www.kaggle.com/datasets/reihanenamdari/breast-cancer
+dataset : https://www.kaggle.com/datasets/reihanenamdari/breast-cancer
+repo : https://github.com/Nirojan-99/ML-breast_cancer_detection.git
+youtube : 
